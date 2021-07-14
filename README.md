@@ -6,7 +6,9 @@
 1.2: Introduction to Quantum Circuits
 
 ### Day 2
+2.1: Simple Quantum Algorithms I
 
+2.2: Simple Quantum Algorithms II
 ### Day 3
 
 ### Day 4
