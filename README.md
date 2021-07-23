@@ -10,7 +10,9 @@
 
 2.2: Simple Quantum Algorithms II
 ### Day 3
+3.1: Coherent Noise
 
+3.2: Projection Noise, Measurement Noise, State Preparation Errors, Incoherent Errors
 ### Day 4
 
 ### Day 5
