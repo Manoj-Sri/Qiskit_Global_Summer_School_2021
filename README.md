@@ -14,6 +14,9 @@
 
 3.2: Projection Noise, Measurement Noise, State Preparation Errors, Incoherent Errors
 ### Day 4
+4.1: Introduction to Classical Machine Learning
+
+4.2: Advanced Classical Machine Learning
 
 ### Day 5
 
