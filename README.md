@@ -19,11 +19,14 @@
 4.2: Advanced Classical Machine Learning
 
 ### Day 5
-Lecture 5.1: Building a Quantum Classifier
+5.1: Building a Quantum Classifier
 
-Lecture 5.2: Introduction to the Quantum Approximate Optimization Algorithm
+5.2: Introduction to the Quantum Approximate Optimization Algorithm
 
 ### Day 6
+6.1: From Variational Classifiers to Linear Classifiers
+
+6.2: Quantum Feature Spaces and Kernels
 
 ### Day 7
 
