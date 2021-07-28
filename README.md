@@ -29,6 +29,7 @@
 6.2: Quantum Feature Spaces and Kernels
 
 ### Day 7
+7: Quantum Kernels in Practice
 
 ### Day 8
 
