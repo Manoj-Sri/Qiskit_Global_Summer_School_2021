@@ -32,6 +32,9 @@
 7: Quantum Kernels in Practice
 
 ### Day 8
+8.1: Introduction and Applications of Quantum Models
+
+8.2: Barren Plateaus, Trainability Issues, and How to Avoid Them
 
 ### Day 9
 
