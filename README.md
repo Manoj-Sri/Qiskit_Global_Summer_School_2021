@@ -37,5 +37,11 @@
 8.2: Barren Plateaus, Trainability Issues, and How to Avoid Them
 
 ### Day 9
+9.1: Introduction to Quantum Hardware
+
+9.2: Hardware Efficient Ansatz for QML
 
 ### Day 10
+10.1: Advandced QML Algorithms
+
+10.2: Capacity and power of QML Models
