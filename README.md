@@ -1,5 +1,22 @@
 # Qiskit_Global_Summer_School_2021
 
+
+
+## Labs
+Labs completed are as a part of [Qiskit Global Summer School (QGSS)-2021](https://challenges.quantum-computing.ibm.com/qgss21)
+
+Lab-1: Quantum Computing Operations and Algorithms
+
+Lab-2: Variational Algorithms
+
+Lab-3: Quantum Feature Maps, Kernels and Support Vector Machines
+
+Lab-4: Training Quantum Circuits
+
+Lab-5: Hardware Efficient Ansatze for Quantum Machine Learning
+
+## Lectures
+
 ### Day 1
 1.1: Vector Spaces, Tensor Products, and Qubits
 
