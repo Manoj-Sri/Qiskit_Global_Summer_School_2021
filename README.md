@@ -1,5 +1,7 @@
 # Qiskit_Global_Summer_School_2021
 
+![qgss](https://user-images.githubusercontent.com/49629253/128605363-3ae4b160-2b8f-40ec-8dae-378d61089fc6.png)
+
 
 
 ## Labs
@@ -62,3 +64,8 @@ Lab-5: Hardware Efficient Ansatze for Quantum Machine Learning
 10.1: Advandced QML Algorithms
 
 10.2: Capacity and power of QML Models
+
+
+
+
+> All the lecture notes belongs to [Qiskit Summer School-2021](https://qiskit.org/events/summer-school/)
